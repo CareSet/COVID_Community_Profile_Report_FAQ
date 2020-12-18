@@ -305,13 +305,13 @@ These include:
 * The COVID Tracking Project [https://covidtracking.com](https://covidtracking.com)
    * Data Download [https://covidtracking.com/data/download](https://covidtracking.com/data/download)
    * Data API [https://covidtracking.com/data/api](https://covidtracking.com/data/api)
-   * Data Sources are available by drilling down on a per state basis on the “main data page” [https://covidtracking.com/data/](https://covidtracking.com/data/)
-   * * COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU). [https://coronavirus.jhu.edu/map.html](https://coronavirus.jhu.edu/map.html)
+   * Data Sources are available by drilling down on a per state basis on the “main data page” [https://covidtracking.com/data/](https://covidtracking.com/data/)   
+* COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU). [https://coronavirus.jhu.edu/map.html](https://coronavirus.jhu.edu/map.html)
    * Underlying data sources [https://github.com/CSSEGISandData/COVID-19/blob/master/README.md](https://github.com/CSSEGISandData/COVID-19/blob/master/README.md)
    * Data Download [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
-   * * COVID-19 Hospitalization Tracking Project The Medical Industry Leadership Institute (MILI) and the Management Information Systems Research Center (MISRC) at the Carlson School of Management at the University of Minnesota: [https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project](https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project)
+* COVID-19 Hospitalization Tracking Project The Medical Industry Leadership Institute (MILI) and the Management Information Systems Research Center (MISRC) at the Carlson School of Management at the University of Minnesota: [https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project](https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project)
    * [Data Sources Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ir6MK_WFQwnuboa5sKVWtliHktkKOWDw3rUH7aiYTXU/edit#gid=0)
-   * *  COVID Act Now
+*  [COVID Act Now](https://www.covidactnow.org/)
    * Local Dashboard [https://www.covidactnow.org/]
    * API & Download [https://apidocs.covidactnow.org/]
 
