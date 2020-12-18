@@ -4,6 +4,7 @@
 The data can be downloaded from
 https://beta.healthdata.gov/National/COVID-19-Community-Profile-Report/gqxm-d9w9
 
+Here is the annoucenment from CDC on Healthdata.gov: https://healthdata.gov/blog/covid-19-open-data-%E2%80%93-our-data-your-data
 
 ### What is this data and why is this data release important?
 The “Community Profile Report” is made up of two components: a PDF and an Excel spreadsheet. Both are snapshots of how COVID is affecting our states and communities.This is a critical open data release because these reports and the data within them are aggregated and prepared by our federal government to guide the national response.
