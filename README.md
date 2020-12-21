@@ -390,6 +390,9 @@ This is also listed as a high priority data note on the cover of the Excel versi
 This release excludes psychiatric, rehabilitation, and religious non-medical hospitals.
 We are investigating if VA and IHS hospital data is included in the data release, but we currently believe that this data is included. 
 
+### Are there other good resources for understanding this data?
+
+[Liz Essley Whyte](https://twitter.com/l_e_whyte) from the [Center for public integrity](https://publicintegrity.org/) has a [twitter thread tour of the data report](https://twitter.com/l_e_whyte/status/1340323898626289670?s=21). 
 
 ### Who wrote this FAQ?
 This FAQ is a collaboration between:
