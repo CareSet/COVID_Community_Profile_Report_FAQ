@@ -6,6 +6,11 @@ https://beta.healthdata.gov/National/COVID-19-Community-Profile-Report/gqxm-d9w9
 
 Here is the annoucenment from CDC on Healthdata.gov: https://healthdata.gov/blog/covid-19-open-data-%E2%80%93-our-data-your-data
 
+### Other resources I can use to understand this data
+
+The COVID Tracking project is listing this as one of the datasets to rely on as it ceases operations. 
+[This blog post from the COVID Tracking Project](https://covidtracking.com/analysis-updates/simple-covid-data) covers this data and is a good summary of how it ties in with other datasets to get a comprehensive picture. 
+
 ### What is this data and why is this data release important?
 The “Community Profile Report” is made up of two components: a PDF and an Excel spreadsheet. Both are snapshots of how COVID is affecting our states and communities.This is a critical open data release because these reports and the data within them are aggregated and prepared by our federal government to guide the national response.
 
