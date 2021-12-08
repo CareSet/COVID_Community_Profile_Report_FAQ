@@ -93,7 +93,7 @@ There are some portions of the spreadsheet that have no raw data equivalent. We 
 
 
 #### Hospitalization Data
-* Generally COVID Hospitalization data is available from the public HHS Protect portal here: https://protect-public.hhs.gov/pages/covid19-module
+* Generally COVID Hospitalization data is available from the public HHS Protect portal here: https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
 * There is meta-data available for the rate at hospitals report successfully into HHS protect. This data is available here: https://protect-public.hhs.gov/datasets/9f70e309bb324d3f96c49a3ead7be776/data
 * Facility level Hospital COVID capacity data is also available, and you find out more on the [FAQ for that data](https://github.com/CareSet/COVID_Hospital_PUF)
 
