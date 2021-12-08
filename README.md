@@ -2,7 +2,7 @@
 
 ### Where can I get the data?
 The data can be downloaded from
-https://beta.healthdata.gov/National/COVID-19-Community-Profile-Report/gqxm-d9w9
+https://healthdata.gov/National/COVID-19-Community-Profile-Report/gqxm-d9w9
 
 Here is the annoucenment from CDC on Healthdata.gov: https://healthdata.gov/blog/covid-19-open-data-%E2%80%93-our-data-your-data
 
