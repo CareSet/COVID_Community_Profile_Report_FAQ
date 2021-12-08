@@ -258,7 +258,7 @@ Note that most of the census data is very recent, and therefore likely to be ref
 CBSA stands for Core-based Statistical Area and is managed by the Office of Management and Budget focused on regions of the country that are connected via commuting. The [wikipedia page for CBSA](https://en.wikipedia.org/wiki/Core-based_statistical_area) is short but accurate and a good place to get details. You can find a [zoomable map poster available from census.gov](https://www2.census.gov/geo/maps/metroarea/us_wall/Sep2018/CBSA_WallMap_Sep2018.pdf)
 
 
-One of the main benefits of CBSA over state-level regional aggreagtions is that it gets the “Twin cities problem” correct. For instance [Kansas City, Missouri](https://en.wikipedia.org/wiki/Kansas_City,_Missouri) and [Kansas City, Kansas](https://en.wikipedia.org/wiki/Kansas_City,_Kansas) are in CBSA 28140
+One of the main benefits of CBSA over state-level regional aggreagtions is that it gets the “Twin cities problem” correct. For instance [Kansas City, Missouri](https://en.wikipedia.org/wiki/Kansas_City,_Missouri) and [Kansas City, Kansas](https://en.wikipedia.org/wiki/Kansas_City,_Kansas) are in CBSA 28140. This is clearly one city, but arbitrarily gives "credit" for statistical information two different states when aggregating at the state level. 
 
 
 Generally, when aggregating on the “city and state” field for Geo analysis is ineffective, because it ignores the fact that large cities tend to blend in with other large cities (i.e. Dallas/Ft Worth) and there are frequently very small cities that exist within the borders of large cities. 
