@@ -4,7 +4,7 @@
 The data can be downloaded from
 https://healthdata.gov/National/COVID-19-Community-Profile-Report/gqxm-d9w9
 
-Here is the annoucenment from CDC on Healthdata.gov: https://healthdata.gov/blog/covid-19-open-data-%E2%80%93-our-data-your-data
+Here is the annoucenment from CDC on Healthdata.gov: https://healthdata.gov/stories/s/Blog-COVID-19-Open-Data-Our-Data-is-Your-Data/9c45-dw4i
 
 ### Other resources I can use to understand this data
 
