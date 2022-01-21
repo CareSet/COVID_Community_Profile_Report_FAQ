@@ -64,6 +64,9 @@ Generally speaking, aggregations and calculations on a few data sources form the
 
 National release of county-level testing data has never been made available before in any dataset, nor compiled by an outside organization. 
 
+
+One source of the data is the Teletracker system. If you would like to see the form that is used to gather this data, you can download [a print out of the Teletracker UI from this regulatory comment page](https://www.reginfo.gov/public/do/PRAViewIC?ref_nbr=202201-0990-001&icID=245355).
+
 ### Can we get raw files for the underlying data?
 Currently, there are raw file versions of the underlying data available for the following types of data. Most of these can be found on the “Data Notes” section of the Excel version of the report, or the final pages of the PDF version of the document.
 
