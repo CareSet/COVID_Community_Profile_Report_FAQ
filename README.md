@@ -11,6 +11,8 @@ Here is the annoucenment from CDC on Healthdata.gov: https://healthdata.gov/stor
 The COVID Tracking project is listing this as one of the datasets to rely on as it ceases operations. 
 [This blog post from the COVID Tracking Project](https://covidtracking.com/analysis-updates/simple-covid-data) covers this data and is a good summary of how it ties in with other datasets to get a comprehensive picture. 
 
+In March of 2022 the [ASPE](https://aspe.hhs.gov/) [Office of Science and Data Policy](https://aspe.hhs.gov/about/offices/sdp) issued [a report](https://aspe.hhs.gov/sites/default/files/documents/8467add5edfbaa06f70ade5e4f829655/covid-data-quality-ib.pdf) that extensively documents some of the issues with the Community Profile Report. 
+
 ### What is this data and why is this data release important?
 The “Community Profile Report” is made up of two components: a PDF and an Excel spreadsheet. Both are snapshots of how COVID is affecting our states and communities.This is a critical open data release because these reports and the data within them are aggregated and prepared by our federal government to guide the national response.
 
